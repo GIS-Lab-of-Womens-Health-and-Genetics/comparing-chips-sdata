@@ -1,4 +1,4 @@
-# Low-coverage whole-genome sequencing and genotyping data from four arrays for 90 Asian individuals
+# Multi-platform genomic profiles for 90 Asian individuals via low-coverage whole-genome sequencing and four genotyping arrays
 
 This repository contains code used for generating the figures in this manuscript:
 > TODO: add citation information here
